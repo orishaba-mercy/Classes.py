@@ -8,5 +8,5 @@ def drive(self):
     start=20
     accerarate=30
     horn="peep"
-    print (f"car {start} with {accerarate} and when danger comes {horn} announces")   
+    print (f"car {self.start} with {self.accerarate} and when danger comes {self.horn} announces")   
 
