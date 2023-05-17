@@ -11,7 +11,17 @@ def my_bank(self):
     withdraw=20000
     balance=8000
     print (f"my bank has {balance},i withdrew {withdraw} and later {deposit} on my account ")   
-
+def deposit(self.amount):
+    deposit+=amount
+    return(f"you have deposited {amount} and your new balance is {balance}.
+def withdrew(self.amount):
+    if self.balance<=amount:
+    self.balance-=amount
+    return f"your withdrew{self.amount} and your new balance is{self.balance}
+    else:
+    f"your balance is {self.balance} you can not withdraw {amount}"
+           
+    
 git init
 git add README.md
 git commit -m "first commit"
